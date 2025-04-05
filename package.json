@@ -1,0 +1,26 @@
+{
+  "name": "exam-group-k-api",
+  "version": "1.0.0",
+  "description": "Exam Group K repository",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lopezjane/exam-group-K-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lopezjane/exam-group-K-api/issues"
+  },
+  "homepage": "https://github.com/Lopezjane/exam-group-K-api#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "epxress": "^0.0.1-security",
+    "express": "^5.1.0"
+  }
+}
